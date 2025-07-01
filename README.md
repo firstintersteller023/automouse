@@ -4,6 +4,10 @@
 
 Simulates mouse movement using `xdotool` to prevent screen lock/sleep.
 
+```
+sudo apt install xdotool
+```
+
 ---
 
 ### 📜 Script: `~/keep_mouse_active.sh`
