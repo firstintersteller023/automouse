@@ -6,6 +6,14 @@ This script uses `xdotool` to move the mouse in a square pattern every 60 second
 
 ---
 
+```
+nohup ./mouse-jiggle.sh >/dev/null 2>&1 &
+```
+
+```
+pkill -f mouse-jiggle.sh
+```
+
 ## 📦 1. Install Prerequisite
 
 ```bash
